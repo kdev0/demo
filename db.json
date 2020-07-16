@@ -1,0 +1,122 @@
+{
+  "profile": {
+    "id": 1,
+    "name": "Elizabeth",
+    "avatar": "profile.jpg"
+  },
+  "limits": {
+    "pulse": {
+      "min": 50,
+      "max": 120
+    },
+    "oxygen": {
+      "min": 95
+    },
+    "temperature": {
+      "min": 36,
+      "max": 36.9
+    }
+  },
+  "vitals": [
+    {
+      "pulse": 60,
+      "oxygen": 99,
+      "temperature": 36.6
+    },
+    {
+      "pulse": 70,
+      "oxygen": 99,
+      "temperature": 36.6
+    },
+    {
+      "pulse": 85,
+      "oxygen": 99,
+      "temperature": 36.6
+    },
+    {
+      "pulse": 90,
+      "oxygen": 99,
+      "temperature": 36.6
+    },
+    {
+      "pulse": 160,
+      "oxygen": 99,
+      "temperature": 36.6
+    },
+    {
+      "pulse": 80,
+      "oxygen": 99,
+      "temperature": 36.6
+    },
+    {
+      "pulse": 70,
+      "oxygen": 99,
+      "temperature": 36.6
+    },
+    {
+      "pulse": 60,
+      "oxygen": 95,
+      "temperature": 36.6
+    },
+    {
+      "pulse": 60,
+      "oxygen": 90,
+      "temperature": 36.6
+    },
+    {
+      "pulse": 60,
+      "oxygen": 98,
+      "temperature": 36.9
+    },
+    {
+      "pulse": 60,
+      "oxygen": 99,
+      "temperature": 37.3
+    },
+    {
+      "pulse": 60,
+      "oxygen": 99,
+      "temperature": 37.9
+    },
+    {
+      "pulse": 100,
+      "oxygen": 99,
+      "temperature": 38.5
+    },
+    {
+      "pulse": 120,
+      "oxygen": 99,
+      "temperature": 39
+    },
+    {
+      "pulse": 123,
+      "oxygen": 99,
+      "temperature": 39.5
+    },
+    {
+      "pulse": 115,
+      "oxygen": 99,
+      "temperature": 38
+    },
+    {
+      "pulse": 100,
+      "oxygen": 99,
+      "temperature": 37.6
+    },
+    {
+      "pulse": 80,
+      "oxygen": 99,
+      "temperature": 36.3
+    },
+    {
+      "pulse": 80,
+      "oxygen": 99,
+      "temperature": 36.6
+    },
+    {
+      "pulse": 80,
+      "oxygen": 99,
+      "temperature": 36.6
+    }
+  ]
+}
